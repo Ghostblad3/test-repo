@@ -1,1 +1,1 @@
-First commit from some-branch
+First commit from some-branch that cause conflict.
