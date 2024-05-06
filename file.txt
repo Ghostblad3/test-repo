@@ -1,1 +1,1 @@
-First commit add something that will cause pull request conflict.
+First commit from some-branch that cause conflict.
